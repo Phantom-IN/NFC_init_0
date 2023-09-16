@@ -66,7 +66,7 @@ def predict():
         "Department": [first_label]
     }
     to_add_df = pd.DataFrame(to_add)
-    to_add_df.to_csv("Salary_Data.csv", mode='a', header=False, index=False)
+    to_add_df.to_csv("Data.csv", mode='a', header=False, index=False)
 
     # Convert DataFrame to dictionary
     to_add_dict = to_add_df.to_dict(orient='records')
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     
     st.set_page_config(page_title="NewsRakshak", page_icon=":memo:", layout="wide")
 
-    data = pd.read_csv("Salary_Data.csv")
+    data = pd.read_csv("Data.csv")
     st.set_option('deprecation.showPyplotGlobalUse', False)
 
     def add_bg_from_local(image_file):
