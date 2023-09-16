@@ -6,6 +6,8 @@
 
 The Press Information Bureau (PIB) Sentiment Analysis System is a comprehensive solution designed to automate the feedback process, analyze public sentiment regarding the government of India, and provide valuable insights to government ministries. This README provides an overview of the project's approach, features, and how to use the system effectively.
 
+<img src="flowbaba.png"></img> <img src="flowchart.jpg"></img>
+
 ## Approach/Solution
 
 ### Data Collection and Preparation
