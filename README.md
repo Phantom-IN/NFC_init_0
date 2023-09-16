@@ -37,7 +37,7 @@ The Press Information Bureau (PIB) Sentiment Analysis System is a comprehensive 
 
 
 
-**Main Features:**
+##**Main Features:**
 
 1. **Sentiment Analysis:**
    - The system employs sentiment analysis techniques to categorize news stories as positive, neutral, or negative regarding the government of India. This provides a quick overview of public sentiment towards government actions and policies.
